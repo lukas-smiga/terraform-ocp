@@ -1,0 +1,14 @@
+work/
+target/
+/.classpath
+/.project
+/.settings
+/Dockerfile-jenkins-test-new-plugin
+/jpi/
+/Dockerfile-jenkins-ext-oauth
+/sa/
+PR-Testing/
+.factorypath
+/.vscode
+
+.DS_Store
