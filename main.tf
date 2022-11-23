@@ -7,7 +7,7 @@ resource "null_resource" "agent_info" {
 
   provisioner "local-exec" {
     command = <<EOF
-    unname -a
+    uname -a
     EOF
   }
 
